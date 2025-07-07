@@ -1,57 +1,52 @@
-<!-- Banner -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://i.imgur.com/NpF4V8O.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=250&section=header&text=Vishnu%20Maddukuri&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h1 align="center">✨ Konnichiwa! I'm Vishnu Maddukuri ✨</h1>
-<p align="center"><i>“Code like Levi. Think like L. Solve like Shikamaru.”</i></p>
+<h3 align="center">Backend Developer | Blockchain Enthusiast | Clean Architecture Advocate</h3>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🧩 Working at **Ideyalabs Tech LLP** as a **Software Engineer**
-- ⚔️ Backend + Blockchain Developer (specializing in **Hyperledger Fabric**)
-- 🌀 Exploring: `SystemVerilog`, `Kubernetes`, `WebSocket`, `DevOps`, `Node.js`
-- 📚 Domains: **Payments (USA, EU, SWIFT)** & **Healthcare Tech**
-- 💬 Talk to me about: `Spring Boot`, `Kafka`, `gRPC`, `Selenium`, `Hyperledger`
+- 🔭 Currently working at **Ideyalabs Tech LLP** as a **Software Engineer**
+- ⚙️ Domains: **Backend Engineering**, **Blockchain Solutions** (Hyperledger Fabric)
+- 🌱 Learning: `Kubernetes`, `DevOps`, `WebSocket`, `SystemVerilog`
+- 🗂 Payments & Healthcare Experience: **SWIFT**, **EU/US Payments**
+- 💬 Tech I enjoy: `Spring Boot`, `Kafka`, `gRPC`, `Go`, `Selenium`
 
 ---
 
-## 🧠 My Tech Blade Collection
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,go,react,postgres,mongodb,kafka,docker,kubernetes,selenium,git" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vishnu5789&theme=tokyo-night" />
-</p>
+---
+
+## 💼 Professional Highlights
+
+- 🧩 Built secure, scalable APIs for tokenization on **Hyperledger Fabric**
+- 🛰 Architected microservices using **Spring Boot** with real-time **Kafka** streaming
+- 🧪 Developed and automated test workflows with **Selenium + Java**
+- 🛠 Designed REST and gRPC APIs for high-throughput backend systems
+- 🚢 Deployed apps on Kubernetes using Docker, Helm, and GitHub Actions
 
 ---
 
-## 🌸 Featured Projects
+## 🧪 Projects
 
-| 💼 Project | ✨ Description |
-|-----------|---------------|
-| 🍱 [Village Food Delivery App](https://github.com/Vishnu5789/food-delivery-village) | Local food ordering system for 3000+ villagers |
-| 🌀 [Kafka Producer-Consumer](https://github.com/Vishnu5789/kafka_producer) | Real-time message pipeline using Kafka & Spring Boot |
-| 🏥 [Hospital Management](https://github.com/Vishnu5789/hospital-management) | Microservices-based medical records backend |
-| 🖥 [Bheem Society Website](https://bheemsociety.org) | Public-facing React site with mailer integration |
-
----
-
-## 💎 Professional Highlights
-
-- ✨ Developed high-throughput blockchain APIs (3000+ TPS)
-- 🔗 Designed secure REST + gRPC APIs across microservices
-- ⚙️ Automated frontend/backend workflows with Selenium + Java
-- 🧠 Built scalable architectures on Kubernetes & Docker
-- 📊 Integrated CI/CD, Prometheus, and modern observability tools
+| Project | Description |
+|--------|-------------|
+| [✅ Food Delivery App](https://github.com/Vishnu5789/food-delivery-village) | Doorstep food delivery system for 3000+ villagers |
+| [✅ Kafka Producer-Consumer](https://github.com/Vishnu5789/kafka_producer) | Real-time event stream architecture |
+| [✅ Hospital Management](https://github.com/Vishnu5789/hospital-management) | Backend system using microservices and PostgreSQL |
+| [✅ Bheem Society Website](https://bheemsociety.org) | Live React frontend with contact mailer integration |
 
 ---
 
-## 🧪 GitHub Stats (Powered by Chakra 😤)
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Vishnu5789&show_icons=true&theme=tokyonight&count_private=true" />
@@ -64,21 +59,20 @@
 
 ---
 
-## 📬 Summon Me Like an Anime Ally
+## 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:maddukuri.vishnu5789@gmail.com"><img src="https://img.shields.io/badge/email-ff3860?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vishnu-maddukuri-88489b202/"><img src="https://img.shields.io/badge/LinkedIn-00bfa5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maddukuri.vishnu5789@gmail.com">
+    <img src="https://img.shields.io/badge/email-ff3860?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishnu-maddukuri-88489b202/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+<!-- Footer Wave -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8a/6c/93/8a6c93d4715b693fe10f250f7f7dd1f6.gif" width="250px" />
-</p>
-
-<p align="center"><i>“The only thing we're allowed to do is believe. We can't change anything.” – Levi Ackerman</i></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=150&section=footer"/>
 </p>
