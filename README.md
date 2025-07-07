@@ -8,10 +8,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a lov
 
 - 🔭 I’m currently working on: **Food Delivery App for Villages**
 - 🌱 I’m learning: **SystemVerilog & UVM | Kubernetes | WebSocket | DevOps | Node.js**
-- 💡 Exploring: **Hyperledger Fabric**
-- 🛠️ Tech Stack: **Spring Boot, React, Go, MongoDB, PostgreSQL**
+- 🛠️ Tech Stack: **Spring Boot, React, Go, MongoDB, PostgreSQL, Hyperledger Fabric**
 - 🗂 Domain Knowledge: **Payments (USA, EU, SWIFT), Healthcare**
-- 💬 Ask me about: Spring Boot, Kafka, gRPC, Selenium Testing, Fabric Blockchain
+- 💬 Ask me about: Spring Boot, Kafka, gRPC, Selenium Testing, **Hyperledger Fabric Blockchain**
 
 ---
 
@@ -27,6 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a lov
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium)
+![Hyperledger Fabric](https://img.shields.io/badge/-Hyperledger%20Fabric-005571?style=flat-square&logo=hyperledger)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
@@ -35,7 +35,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a lov
 
 - 🔗 [Food Delivery App (Village-based)](https://github.com/Vishnu5789/food-delivery-village) — Connects villagers to a local restaurant 'SK' with doorstep delivery.
 - 🔗 [Kafka Producer-Consumer Demo](https://github.com/Vishnu5789/kafka_producer) — Real-time Kafka setup with Spring Boot.
-- 🔗 [iBass (Blockchain as a Service)](https://github.com/Vishnu5789/iBass) — Hyperledger Fabric integration with Go and gRPC APIs.
 - 🔗 [Hospital Management System](https://github.com/Vishnu5789/hospital-management) — Backend microservice architecture for hospitals.
 - 🔗 [Bheem Society Website](https://bheemsociety.org) — Real-time React website with SMTP integration.
 
@@ -65,5 +64,3 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a lov
 ---
 
 ⭐️ Thanks for visiting my GitHub profile!
-
-
